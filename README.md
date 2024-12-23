@@ -1,18 +1,18 @@
 Hello, World!
 
-😄 Pronouns: /asif1122se/
+😄 Pronouns: /MuhammadAsif/
 
-💻 Full-Stack MERN Developer
+💻 Frontend Developer with 5+ Years of Experience
 
-🌱 Currently Learning: Blockchain Technology
+🌱 Currently Learning: Communication Skills & Team Management Skills
 
-🔭 Exploring: Machine Learning in AI
+🔭 Exploring: Blockchain Integration with Frontend Technologies
 
-⚡ Specializing in Custom Software Solutions
+⚡ Specializing in: Responsive Web Applications, Figma to HTML Conversion, and NFT Marketplace Development
 
-🏛 Lead Full-Stack Developer at MetaXols
+🏛 Lead Frontend Developer - Managing a Team of 5 Developers
 
-🎓 CS Graduate from Stanford University
+🎓 Education: Bachelor’s in Computer Science
 
 📱 Contact: +92 308 4075270
 
