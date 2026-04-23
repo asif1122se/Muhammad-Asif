@@ -32,43 +32,28 @@
 
 ## `$ whoami`
 
-```typescript
-const asif: CoFounder & FullStackEngineer = {
-  name:        "Muhammad Asif",
-  role:        "Co-Founder & Lead Engineer @ ThriveAxis",
-  email:       "asif1122se@gmail.com",
-  phone:       "+92 308 4075270",
-  linkedin:    "linkedin.com/in/muhammad-asif-1122se",
+**Muhammad Asif** — Co-Founder &amp; Lead Engineer at **ThriveAxis**, an AI-powered full stack agency.
 
-  company: {
-    name:      "ThriveAxis",
-    type:      "AI-Powered Full Stack Agency",
-    focus:     "We build production-grade AI SaaS products end-to-end",
-    services:  ["LLM Integration", "SaaS Architecture", "AI Automation", "Product Engineering"],
-    hiring:    true,
-    openToClients: true,
-  },
+I build complete digital products end-to-end — not just code, but the right architecture that keeps products fast, secure, and scalable as they grow. If you are a founder or business looking to build an AI-powered product, I am the person who bridges the gap between your idea and a live, working system.
 
-  superpower:  "I don't just build features — I architect entire AI products.\n" +
-               "Schema design, LLM pipelines, billing, auth, infra — owned start to finish.",
+<br/>
 
-  currentFocus: [
-    "Scaling ThriveAxis to serve global AI SaaS clients",
-    "Production RAG pipelines and document intelligence",
-    "Multi-tenant SaaS with Supabase + Next.js",
-    "AI cost optimization and observability",
-  ],
+**🏢 About ThriveAxis**
 
-  stack: {
-    ai:       ["OpenAI GPT-4o", "Anthropic Claude", "LangChain", "pgvector", "Pinecone"],
-    frontend: ["Next.js 14", "React 18", "TypeScript", "Tailwind CSS", "shadcn/ui"],
-    backend:  ["Node.js", "NestJS", "PostgreSQL", "Supabase", "Firebase"],
-    billing:  ["Stripe", "Usage-based metering", "Webhook lifecycle management"],
-    devops:   ["Vercel", "AWS", "Docker", "GitHub Actions", "Zero-downtime CI/CD"],
-  },
-};
-```
+ThriveAxis is an AI agency that builds full SaaS products for startups and businesses worldwide. We handle everything — design, backend, frontend, AI pipelines, billing, and infrastructure.
 
+- 🤖 AI features that actually work in production
+- 🏗️ Complete products — design, backend, frontend, billing
+- 🔐 Secure, scalable multi-user platforms
+- 💳 Payment systems and subscription management
+- 🚀 From idea to launched product — fast
+
+<br/>
+
+| 📍 Based In | 🎯 Currently | 📬 Reach Me |
+|:-----------:|:------------:|:-----------:|
+| Pakistan 🇵🇰 | Scaling ThriveAxis | asif1122se@gmail.com |
+| Serving clients globally | Open to new clients ✅ | +92 308 4075270 |
 ---
 
 ## 🚀 ThriveAxis — What We Build
