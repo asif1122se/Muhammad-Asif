@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="./assets/banner.svg" alt="Muhammad Asif - Co-Founder at ThriveAxis" />
+<img width="100%" src="./banner.svg" alt="Muhammad Asif - Co-Founder at ThriveAxis" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Co-Founder+at+ThriveAxis+AI+Agency;Building+AI-Powered+SaaS+Products+at+Scale;LLM+Engineering+and+Multi-Tenant+Architecture;From+Idea+to+Production+in+Record+Time;We+Build+What+Others+Call+Impossible" alt="Typing SVG" />
@@ -266,7 +266,7 @@ We take projects from idea to deployed product. Let's build something great.
 
 <br/><br/>
 
-<img width="100%" src="./assets/banner_footer.svg" alt="footer" />
+<img width="100%" src="./banner_footer.svg" alt="footer" />
 
 </div>
 
