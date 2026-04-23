@@ -1,0 +1,89 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="50%"  stop-color="#1a0a2e"/>
+      <stop offset="100%" stop-color="#6e2cf4"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Dot grid -->
+  <g opacity="0.06">
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#a78bfa"/>
+    </pattern>
+    <rect width="1280" height="220" fill="url(#dots)"/>
+  </g>
+
+  <!-- Orbs -->
+  <ellipse cx="110" cy="90" rx="140" ry="85" fill="#6e2cf4" opacity="0.13"/>
+  <ellipse cx="1180" cy="75" rx="160" ry="95" fill="#a78bfa" opacity="0.10"/>
+
+  <!-- Wave layer 1 -->
+  <path d="M0,160 C160,130 320,185 480,160 C640,135 800,175 960,155 C1120,135 1200,165 1280,150 L1280,220 L0,220 Z"
+        fill="#0d1117"/>
+
+  <!-- Wave layer 2 -->
+  <path d="M0,180 C200,155 400,200 600,178 C800,156 1000,195 1280,170 L1280,220 L0,220 Z"
+        fill="#0d1117"/>
+
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="1280" height="2" fill="url(#textGrad)" opacity="0.3"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="220" fill="#7c3aed" opacity="0.8"/>
+
+  <!-- Co-Founder badge pill -->
+  <rect x="490" y="28" width="300" height="28" rx="14" fill="#7c3aed" opacity="0.35"/>
+  <text x="640" y="47"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="12"
+        font-weight="600"
+        text-anchor="middle"
+        fill="#c4b5fd"
+        letter-spacing="3">
+    CO-FOUNDER · THRIVEAXIS
+  </text>
+
+  <!-- Main name -->
+  <text x="640" y="115"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="64"
+        font-weight="800"
+        text-anchor="middle"
+        fill="url(#textGrad)"
+        filter="url(#glow)"
+        letter-spacing="2">
+    Muhammad Asif
+  </text>
+
+  <!-- Subtitle -->
+  <text x="640" y="153"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="17"
+        font-weight="400"
+        text-anchor="middle"
+        fill="#c4b5fd"
+        letter-spacing="3"
+        opacity="0.92">
+    FULL STACK ENGINEER  ·  AI AGENCY FOUNDER  ·  LLM INTEGRATION SPECIALIST
+  </text>
+
+  <!-- Decorative dots -->
+  <circle cx="320" cy="153" r="3" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="960" cy="153" r="3" fill="#a78bfa" opacity="0.6"/>
+</svg>
