@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Contact & Social Badges -->
-<a href="mailto:asif1122se@gmail.com">
+<a href="mailto:asif@thrivaxis.com">
   <img src="https://img.shields.io/badge/asif1122se%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/923084075270">
@@ -52,7 +52,7 @@ ThriveAxis is an AI agency that builds full SaaS products for startups and busin
 
 | 📍 Based In | 🎯 Currently | 📬 Reach Me |
 |:-----------:|:------------:|:-----------:|
-| Pakistan 🇵🇰 | Scaling ThriveAxis | asif1122se@gmail.com |
+| Pakistan 🇵🇰 | Scaling ThriveAxis | asif@thrivaxis.com |
 | Serving clients globally | Open to new clients ✅ | +92 308 4075270 |
 ---
 
@@ -237,7 +237,7 @@ We take projects from idea to deployed product. Let's build something great.
 
 <br/>
 
-<a href="mailto:asif1122se@gmail.com">
+<a href="mailto:asif@thrivaxis.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -258,5 +258,5 @@ We take projects from idea to deployed product. Let's build something great.
 ---
 
 <div align="center">
-  <sub>⚡ Muhammad Asif · Co-Founder at ThriveAxis · asif1122se@gmail.com · +92 308 4075270</sub>
+  <sub>⚡ Muhammad Asif · Co-Founder at ThriveAxis · asif@thrivaxis.com · +92 308 4075270</sub>
 </div>
