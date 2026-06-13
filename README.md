@@ -10,7 +10,7 @@
 
 <!-- Contact & Social Badges -->
 <a href="mailto:asif@thrivaxis.com">
-  <img src="https://img.shields.io/badge/asif1122se%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/asif%40thrivaxis.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/923084075270">
   <img src="https://img.shields.io/badge/%2B92_308_4075270-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
